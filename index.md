@@ -2,5 +2,5 @@
 
 Me gustan los deportes de aventura y he creado algunas webs que me gustaría que conociéseis
 
-https://planetsport.es
+<a href="https://planetsport.es" target="_blank" rel="noopener noreferrer">planetsport.es</a>
 
