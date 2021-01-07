@@ -14,6 +14,6 @@ El barranquismo es un deporte de aventura que se realiza en los barrancos, caño
 
 El equipo necesario va a depender del tipo de barranco que se realiza, los hay acuáticos sin rapeles, acuáticos con rapeles y secos. Lo barrancos secos normalmente contaran con rapeles.
 
-Más información en <a href="https://planetspot.es/que-es-el-barranquismo/" target="_blank" rel="dofollow noopener noreferrer">Qué es el barranquismo</a>
+Más información en <a href="https://planetsport.es/que-es-el-barranquismo/" target="_blank" rel="dofollow noopener noreferrer">Qué es el barranquismo</a>
 
-[back](./)
+[INICIO](./)
